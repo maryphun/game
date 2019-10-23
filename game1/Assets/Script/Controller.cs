@@ -15,7 +15,12 @@ public class Controller : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.A))
         {
-            transform.position = new Vector3(1,1,1);
+            transform.position = new Vector3(2,2,2);
+        }
+
+        if (Input.GetKey(KeyCode.S))
+        {
+            transform.position = new Vector3(20, 20, 20);
         }
     }
 }
