@@ -263,35 +263,20 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="udpkit.platform.dotnet">
-      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.dotnet.dll</HintPath>
-    </Reference>
-    <Reference Include="bolt.compiler">
-      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/editor/bolt.compiler.dll</HintPath>
-    </Reference>
-    <Reference Include="Photon3Unity3D">
-      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
-    </Reference>
-    <Reference Include="bolt.editor">
-      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/editor/bolt.editor.dll</HintPath>
+    <Reference Include="bolt">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.dll</HintPath>
     </Reference>
     <Reference Include="bolt.user">
       <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.user.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
+    <Reference Include="bolt.compiler">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/editor/bolt.compiler.dll</HintPath>
     </Reference>
-    <Reference Include="udpkit.platform.null">
-      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.null.dll</HintPath>
+    <Reference Include="bolt.editor">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/editor/bolt.editor.dll</HintPath>
     </Reference>
     <Reference Include="protobuf-net">
       <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/editor/protobuf-net.dll</HintPath>
-    </Reference>
-    <Reference Include="websocket-sharp">
-      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
-    </Reference>
-    <Reference Include="bolt">
-      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.dll</HintPath>
     </Reference>
     <Reference Include="udpkit.common">
       <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.common.dll</HintPath>
@@ -299,8 +284,23 @@
     <Reference Include="udpkit">
       <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.dll</HintPath>
     </Reference>
+    <Reference Include="udpkit.platform.dotnet">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.dotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="udpkit.platform.null">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.null.dll</HintPath>
+    </Reference>
     <Reference Include="udpkit.platform.photon">
       <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.photon.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon3Unity3D">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
+    </Reference>
+    <Reference Include="websocket-sharp">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:/1701337/2019.2.9f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
