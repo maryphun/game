@@ -62,7 +62,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Menu.cs" />
     <Compile Include="Assets\menumary.cs" />
+    <Compile Include="Assets\NetworkCallback.cs" />
+    <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\samples\AdvancedTutorial\scripts\Callbacks\PlayerCallbacks.cs" />
     <Compile Include="Assets\samples\AdvancedTutorial\scripts\Callbacks\ServerCallbacks.cs" />
     <Compile Include="Assets\samples\AdvancedTutorial\scripts\Callbacks\TokenCallbacks.cs" />
@@ -385,67 +388,67 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="bolt">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.dll</HintPath>
     </Reference>
     <Reference Include="bolt.user">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.user.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.user.dll</HintPath>
     </Reference>
     <Reference Include="udpkit.common">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.common.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.common.dll</HintPath>
     </Reference>
     <Reference Include="udpkit">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.dll</HintPath>
     </Reference>
     <Reference Include="udpkit.platform.dotnet">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.dotnet.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.dotnet.dll</HintPath>
     </Reference>
     <Reference Include="udpkit.platform.null">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.null.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.null.dll</HintPath>
     </Reference>
     <Reference Include="udpkit.platform.photon">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.photon.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.photon.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="System">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.dll</HintPath>
     </Reference>
     <Reference Include="System.Core">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Core.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Core.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.Serialization">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Runtime.Serialization.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Runtime.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml.Linq">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.Linq.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.Linq.dll</HintPath>
     </Reference>
     <Reference Include="System.Numerics">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.dll</HintPath>
     </Reference>
     <Reference Include="System.Numerics.Vectors">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.Vectors.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Numerics.Vectors.dll</HintPath>
     </Reference>
     <Reference Include="System.Net.Http">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Net.Http.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Net.Http.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Microsoft.CSharp.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Microsoft.CSharp.dll</HintPath>
     </Reference>
     <Reference Include="System.Data">
-      <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Data.dll</HintPath>
+      <HintPath>D:/1701337/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/System.Data.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Win32.Primitives">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/Microsoft.Win32.Primitives.dll</HintPath>

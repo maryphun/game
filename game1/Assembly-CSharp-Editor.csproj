@@ -289,7 +289,10 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="bolt">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.dll</HintPath>
+    </Reference>
+    <Reference Include="bolt.user">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.user.dll</HintPath>
     </Reference>
     <Reference Include="bolt.user">
       <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonBolt/assemblies/bolt.user.dll</HintPath>
@@ -324,8 +327,23 @@
     <Reference Include="websocket-sharp">
       <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
     </Reference>
+    <Reference Include="udpkit.platform.dotnet">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.dotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="udpkit.platform.null">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.null.dll</HintPath>
+    </Reference>
+    <Reference Include="udpkit.platform.photon">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonBolt/assemblies/udpkit/udpkit.platform.photon.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon3Unity3D">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
+    </Reference>
+    <Reference Include="websocket-sharp">
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>D:/1816201/TDSゲーム制作/game/game1/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/1816228/Desktop/game/game1/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>D:/1816201/TDSゲーム制作/game/game1/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>

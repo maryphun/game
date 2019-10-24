@@ -277,5 +277,3 @@ C:\Users\1816228\Desktop\game\game1\obj\Debug\PhotonWebSocket.csproj.CoreCompile
 C:\Users\1816228\Desktop\game\game1\obj\Debug\PhotonWebSocket.csproj.CopyComplete
 C:\Users\1816228\Desktop\game\game1\obj\Debug\PhotonWebSocket.dll
 C:\Users\1816228\Desktop\game\game1\obj\Debug\PhotonWebSocket.pdb
-C:\Users\1816228\Desktop\game\game1\Temp\bin\Debug\PhotonRealtime.dll
-C:\Users\1816228\Desktop\game\game1\Temp\bin\Debug\PhotonRealtime.pdb
